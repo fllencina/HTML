@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Title of the document</title>
+</head>
+
+<body>
+
+<var>The content of the document......</var>
+ <br>
+ <br>
+<a href="Clientes.html"><button type="button"><strong><font size="3" color="red">Clientes</font></strong></button></a>
+ <br>
+<a href="https://central.alpha2000.local/index.php?menu=agent_console"><button type="button"><strong>Central.alpha2000</strong></button></a>
+ <br>
+<a href="https://www.google.com.ar/search?source=hp&ei=wIQaXPvLN8aMwgTD7amAAg&q=html+button&oq=html+&gs_l=psy-ab.1.5.0l7j0i10j0l2.2019.4770..12570...1.0..0.88.341.6......0....1..gws-wiz.....0..0i131.xdimUml2T4I"><button type="button"><strong>Busqueda google</strong></button></a>
+
+
+</body>
+
+</html>
